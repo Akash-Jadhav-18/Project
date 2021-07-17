@@ -704,7 +704,7 @@ int main()
 	fflush(stdin);
 	strcpy(str,"");
 	
-	printf("\nMarvellous VFS : > ");
+	printf("\nVFS : > ");
 	fgets(str,80,stdin);
 	
 	// ghetlelya command la tokan nize kerun ghetl
