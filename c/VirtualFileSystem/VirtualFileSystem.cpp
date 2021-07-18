@@ -7,8 +7,6 @@
 
 #define MAXINODE 50
 
-//Eronious value nigative thevaychya
-//Informative value positive thevaychya
 
 #define READ 1
 #define WRITE 2
